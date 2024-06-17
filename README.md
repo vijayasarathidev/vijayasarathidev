@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">Hello 👋 I'm Vijayasarathi, Frontend developer 👨‍💻 🚀</div>  
+### <div align="center">Hello 👋 I'm Vijayasarathi, Software Engineer 👨‍💻 🚀</div>  
   
 
-- 🔭 I’m currently working on [Freelance](https://github.com/vijayasarathidev)  
+- 🔭 I’m currently working as a Network Engineer [Freelance](https://github.com/vijayasarathidev)  
   
 
-- 🌱 I’m currently learning Full-stack and Mobile-development  
+- 🌱 I’m currently learning WEB and Mobile-development  
   
 
 - ⚡ Learning , Building, Contributing  
